@@ -12,8 +12,7 @@ It helped me practice layout, spacing, and component styling in a real-world exa
 ---
 
 ## 🔗 Live Demo
-[Click here to view on GitHub Pages](https://username.github.io/qr-code-component-main/)
-
+[Click here to view on GitHub Pages] (https://talhaarif326.github.io/QR-code-component/)
 ---
 
 ## 🛠️ Built With
