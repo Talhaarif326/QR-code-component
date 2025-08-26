@@ -1,4 +1,4 @@
-# QR Code Component
+# QR Code Component using HTML and CSS
 
 This is my first project with Frontend Mentor — a **QR Code Component** built using only **HTML and CSS (Flexbox)**.  
 It helped me practice layout, spacing, and component styling in a real-world example.
